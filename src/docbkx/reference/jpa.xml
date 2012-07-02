@@ -50,7 +50,7 @@
 
         <para>Beyond the default attributes of the <code>repositories</code>
         element the JPA namespace offers additional attributes to gain more
-        detailled control over the setup of the repositories:</para>
+        detailed control over the setup of the repositories:</para>
 
         <table>
           <title>Custom JPA-specific attributes of the repositories
